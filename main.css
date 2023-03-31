@@ -24,6 +24,10 @@
     list-style: none;
     justify-content: center;
 }
+.menu-list a{
+    text-decoration: none;
+    color: #fff;
+}
 .menu-list-item{
     margin-right: 30px;
 }
@@ -87,7 +91,7 @@
     margin-left: 50px;
 }
 .container{
-    background-image: url(/assets/mheist2.jfif);
+    background-image: url(/assets/venom.jpg);
     background-size: cover;
     background-position: center center;
     color: beige;
@@ -119,4 +123,8 @@
 .c-desc{
     color: beige;
     font-weight: bold;
+}
+
+h6{
+    text-align: center;
 }
