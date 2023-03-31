@@ -6,6 +6,7 @@
     height: 50px;
     width: 100%;
     background-color: black;
+    position: fixed;
 }
 .navbar-container{
     display: flex;
@@ -86,7 +87,7 @@
     margin-left: 50px;
 }
 .container{
-    background-image: url(/movie-gallore12-main/assets/mheist3.jfif);
+    background-image: url(/assets/mheist2.jfif);
     background-size: cover;
     background-position: center center;
     color: beige;
